@@ -1,0 +1,6 @@
+C:\git\project1\practiceproject3\practiceproject3\bin\Debug\practiceproject3.exe
+C:\git\project1\practiceproject3\practiceproject3\bin\Debug\practiceproject3.exe.config
+C:\git\project1\practiceproject3\practiceproject3\obj\Debug\practiceproject3.csproj.AssemblyReference.cache
+C:\git\project1\practiceproject3\practiceproject3\obj\Debug\practiceproject3.csproj.CoreCompileInputs.cache
+C:\git\project1\practiceproject3\practiceproject3\obj\Debug\practiceproject3.exe
+C:\git\project1\practiceproject3\practiceproject3\obj\Debug\practiceproject3.pdb
